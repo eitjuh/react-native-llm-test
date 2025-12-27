@@ -11,7 +11,7 @@
     "lint": "expo lint"
   },
   "dependencies": {
-    "@eitjuh/expo-apple-intelligence": "github:eitjuh/expo-apple-intelligence",
+    "@eitjuh/expo-apple-intelligence": "^0.1.1",
     "@expo/vector-icons": "^15.0.3",
     "@react-navigation/bottom-tabs": "^7.4.0",
     "@react-navigation/elements": "^2.6.3",
