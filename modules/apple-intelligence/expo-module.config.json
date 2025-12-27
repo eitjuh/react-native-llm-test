@@ -1,8 +1,0 @@
-{
-  "platforms": ["ios"],
-  "ios": {
-    "modules": ["AppleIntelligenceModule"],
-    "podspecPath": "./apple-intelligence.podspec"
-  }
-}
-

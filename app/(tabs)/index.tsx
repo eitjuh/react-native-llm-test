@@ -21,7 +21,7 @@ import { LinearGradient } from 'expo-linear-gradient';
 import { BlurView } from 'expo-blur';
 import { Ionicons } from '@expo/vector-icons';
 
-import * as AppleIntelligence from '@/modules/apple-intelligence';
+import * as AppleIntelligence from '@eitjuh/expo-apple-intelligence';
 import { useColorScheme } from '@/hooks/use-color-scheme';
 
 interface Message {
